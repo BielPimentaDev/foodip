@@ -37,8 +37,8 @@ export default function Footer() {
                 )
             })}
           
-
         </div>
+          <p className='text-center py-30 mx-auto w-[300px] h-[100px]'> &copy; Criado por Gabriel Pimenta</p>
     </div>
   )
 }
